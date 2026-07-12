@@ -1,34 +1,48 @@
 # Chicago Music Scene Marketing & Audience Insights
 
-## Business Problem
+## Overview
 
-Independent music venues, artists, and promoters in Chicago compete for audience attention with limited marketing budgets.
-
-This project analyzes music, venue, and audience data to identify opportunities for more effective marketing strategies and stronger audience engagement.
+This project simulates a real-world business analytics engagement for a fictional Chicago concert promoter. Using publicly available music, venue, event, and demographic data, the goal is to identify opportunities to improve marketing strategy, increase audience engagement, and maximize event attendance through data-driven decision making.
 
 ---
 
-## Project Goal
+## Business Questions
 
-The goal is to answer questions such as:
+This analysis aims to answer the following questions:
 
-- Which music genres are growing in popularity?
-- Which Chicago neighborhoods have the highest concentration of music venues?
-- What factors influence artist popularity?
-- How can promoters better allocate their marketing budget?
+* Which music genres are most popular across Chicago?
+* Which neighborhoods have the highest concentration of live music venues?
+* What characteristics are associated with more popular artists and events?
+* Are there seasonal trends in Chicago's live music scene?
+* How should a limited marketing budget be allocated to maximize audience engagement and event attendance?
 
 ---
 
 ## Tools
 
-- Python
-- SQL
-- Tableau Public
-- Excel
-- GitHub
+* Python
+* SQL
+* Tableau Public
+* Excel
+* GitHub
+
+---
+
+## Project Roadmap
+
+* [x] Define the business problem
+* [x] Set up the project repository
+* [x] Set up the analysis environment
+* [ ] Collect and combine public datasets
+* [ ] Clean and prepare the data
+* [ ] Perform exploratory data analysis (EDA)
+* [ ] Write SQL queries to answer business questions
+* [ ] Build an interactive Tableau dashboard
+* [ ] Develop business recommendations
+* [ ] Publish the completed portfolio project
 
 ---
 
 ## Project Status
 
-🚧 Currently in Progress
+🚧 **In Progress** — Currently collecting and preparing data sources for analysis.
