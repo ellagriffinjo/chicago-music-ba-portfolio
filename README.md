@@ -1,2 +1,2 @@
-# chicago-music-ba-portfolio
-Data analysis portfolio project on Chicago music scene for Business Analytics &amp; Marketing roles.
+# chicago-music-marketing-analysis
+Business Analytics portfolio project analyzing Chicago's music and entertainment market using SQL, Python, and Tableau.
